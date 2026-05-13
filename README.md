@@ -92,6 +92,18 @@ I'm a **Senior Software Engineer at Walmart Global Tech** with **7+ years** of e
 
 ## Featured Projects
 
+### [FraudStream](https://github.com/TushGH/FraudStream)
+> Real-time fraud detection pipeline. Java/Spring + Kafka Streams for ingest & feature enrichment, Python/FastAPI + scikit-learn IsolationForest for scoring. Sub-100ms decisioning..
+
+### [PRSquad](https://github.com/TushGH/PRSquad)
+> Multi-agent AI code reviewer for GitHub PRs (LangGraph + FastAPI + Pydantic). Four parallel agents — reviewer, security, tests, docs — fan in to one Markdown comment. No RAG.
+
+### [SREcopilot](https://github.com/TushGH/SREcopilot)
+> Production-grade RAG system featuring **6 retrieval strategies**, event-driven ingestion, Prometheus metrics, and Docker-first deployment. Built with Python.
+
+### [OrderForge](https://github.com/TushGH/OrderForge)
+> Event-driven e-commerce order platform with Java 21, Spring Boot 3, Kafka, and the Saga pattern. PostgreSQL + Prometheus + Grafana, docker-compose
+
 ### [rag-nexus](https://github.com/TushGH/rag-nexus)
 > Production-grade RAG system featuring **6 retrieval strategies**, event-driven ingestion, Prometheus metrics, and Docker-first deployment. Built with Python.
 
@@ -103,15 +115,6 @@ I'm a **Senior Software Engineer at Walmart Global Tech** with **7+ years** of e
 
 ###  [MarkCoin](https://github.com/TushGH/MarkCoin)
 > A **blockchain-based** solution for anonymously maintaining student exam marks on a public domain.
-
-### [Rest_Emp_Management](https://github.com/TushGH/Rest_Emp_Management)
-> RESTful microservice for employee management built with **Spring Boot, JPA, and MySQL**.
-
-### [JavaServletProject](https://github.com/TushGH/JavaServletProject)
-> Full-stack rental car management app — **Java, Web Services, JUnit, Selenium, JaCoCo, JSP/JSTL, HTML**.
-
-### [Weather_Info_Script](https://github.com/TushGH/Weather_Info_Script) · 📰 [NewsATFingerTip](https://github.com/TushGH/NewsATFingerTip)
-> Python utilities that fetch and parse data from public APIs (NWS XML feeds, news portals) into easy-to-read CLI reports.
 
 ---
 
